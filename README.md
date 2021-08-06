@@ -24,3 +24,4 @@
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rkaclfdl123&show_icons=true&locale=en" alt="rkaclfdl123" /></p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rkaclfdl123)](https://github.com/anuraghazra/github-readme-stats)
