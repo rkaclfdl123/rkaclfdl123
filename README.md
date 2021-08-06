@@ -10,8 +10,8 @@
 
 
 <p align="center">
-<a href="https://fb.com/https://www.facebook.com/junsu.ko.1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/junsu.ko.1/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/junsu_ko/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/junsu_ko/" height="30" width="40" /></a>
+<a href="/https://www.facebook.com/junsu.ko.1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/junsu.ko.1/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/junsu_ko/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/junsu_ko/" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
