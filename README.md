@@ -1,7 +1,5 @@
 
-
-
-<div align=center>
+<div align=left>
 
 <h1 align="center">Hi 👋, I'm Ko Jun Su</h1>
 <h3 align="center">Hongik University</h3>
@@ -18,10 +16,29 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rkaclfdl123&hide_border=true&layout=compact" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rkaclfdl123&hide_border=true&layout=compact&theme=chartreuse-dark" align="center" /></div>  
 
 <br/>  
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rkaclfdl123&show_icons=true&locale=en" alt="rkaclfdl123" /></p>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rkaclfdl123)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rkaclfdl123&show_icons=true&theme=chartreuse-dark)
+  
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rkaclfdl123&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rkaclfdl123&repo=convoychat" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rkaclfdl123&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rkaclfdl123&repo=convoychat" />
+</a>
+<a href="https://github.com/rkaclfdl123/Machine-Learning_Crash-Course">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rkaclfdl123&repo=Machine-Learning_Crash-Course" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
+
