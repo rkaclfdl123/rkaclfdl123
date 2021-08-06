@@ -2,8 +2,8 @@
 <div align=center>
  
 [![Gyoogle's github stats](https://github-readme-stats.vercel.app/api?username=gyoogle&show_icons=true&theme=radical)](https://github.com/rkaclfdl123) <br>
-[![](https://raw.githubusercontent.com/gyoogle/Card/master/profile-summary-card-output/monokai/1-repos-per-language.svg)](https://github.com/gyoogle) [![](https://raw.githubusercontent.com/gyoogle/Card/master/profile-summary-card-output/monokai/2-most-commit-language.svg)](https://github.com/gyoogle)
-[![](https://raw.githubusercontent.com/gyoogle/Card/master/profile-summary-card-output/monokai/3-stats.svg)](https://github.com/gyoogle) [![](https://raw.githubusercontent.com/gyoogle/Card/master/profile-summary-card-output/monokai/4-productive-time.svg)](https://github.com/gyoogle)
+[![](https://raw.githubusercontent.com/gyoogle/Card/master/profile-summary-card-output/monokai/1-repos-per-language.svg)](https://github.com/rkaclfdl123) [![](https://raw.githubusercontent.com/gyoogle/Card/master/profile-summary-card-output/monokai/2-most-commit-language.svg)](https://github.com/rkaclfdl123)
+[![](https://raw.githubusercontent.com/gyoogle/Card/master/profile-summary-card-output/monokai/3-stats.svg)](https://github.com/rkaclfdl123) [![](https://raw.githubusercontent.com/gyoogle/Card/master/profile-summary-card-output/monokai/4-productive-time.svg)](https://github.com/rkaclfdl123)
 
 
 <!--
