@@ -1,25 +1,20 @@
- 
+
+
+
 <div align=center>
 
-[![Gyoogle's github stats](https://github-readme-stats.vercel.app/api?username=rkaclfdl123&show_icons=true&theme=radical)](https://github.com/rkaclfdl123) <br>
-[![](https://raw.githubusercontent.com/gyoogle/Card/master/profile-summary-card-output/monokai/1-repos-per-language.svg)](https://github.com/rkaclfdl123) [![](https://raw.githubusercontent.com/gyoogle/Card/master/profile-summary-card-output/monokai/2-most-commit-language.svg)](https://github.com/rkaclfdl123)
-[![](https://raw.githubusercontent.com/gyoogle/Card/master/profile-summary-card-output/monokai/3-stats.svg)](https://github.com/rkaclfdl123) [![](https://raw.githubusercontent.com/gyoogle/Card/master/profile-summary-card-output/monokai/4-productive-time.svg)](https://github.com/rkaclfdl123)
+<h1 align="center">Hi 👋, I'm Ko Jun Su</h1>
+<h3 align="center">Hongik University</h3>
+<div align=center>
+<p align="center"><a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frkaclfdl123&count_bg=%23FF0000&title_bg=%23000000&icon=python.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a></p>
 
 
-<!--
-[![Gyoogle's github stats](https://github-readme-stats.vercel.app/api?username=gyoogle&show_icons=true&theme=radical)](https://github.com/rkaclfdl123)
-<br>
-[![trophy](https://github-profile-trophy.vercel.app/?username=gyoogle&theme=onedark)](https://github.com/rkaclfdl123)
+<p align="center">
+<a href="https://fb.com/https://www.facebook.com/junsu.ko.1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/junsu.ko.1/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/junsu_ko/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/junsu_ko/" height="30" width="40" /></a>
+</p>
 
+<h3 align="center">Languages and Tools:</h3>
+<p align="center"> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kim6394)](https://solved.ac/kim6394)
--->
-
-<br>
-  
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgyoogle%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-</div>
-
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/rkaclfdl123%2Fgjbae1212%2Fhit-counter&count_bg=%237900FF&title_bg=%23FFDF00&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rkaclfdl123&show_icons=true&locale=en" alt="rkaclfdl123" /></p>
