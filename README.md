@@ -23,22 +23,23 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rkaclfdl123&show_icons=true&theme=chartreuse-dark)
   
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rkaclfdl123&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rkaclfdl123&repo=convoychat" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rkaclfdl123&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rkaclfdl123&repo=convoychat" />
 </a>
 <a href="https://github.com/rkaclfdl123/Machine-Learning_Crash-Course">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rkaclfdl123&repo=Machine-Learning_Crash-Course" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a></a>
+<a href="https://github.com/rkaclfdl123/Machine-Learning_Crash-Course">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rkaclfdl123&repo=Machine-Learning_Crash-Course" />
+</a></a>
+<a href="https://github.com/rkaclfdl123/Machine-Learning_Crash-Course">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rkaclfdl123&repo=Machine-Learning_Crash-Course" />
+</a></a>
+<a href="https://github.com/rkaclfdl123/Machine-Learning_Crash-Course">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rkaclfdl123&repo=Machine-Learning_Crash-Course" />
+</a></a>
+<a href="https://github.com/rkaclfdl123/Machine-Learning_Crash-Course">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rkaclfdl123&repo=Machine-Learning_Crash-Course" />
+</a></a>
+<a href="https://github.com/rkaclfdl123/Machine-Learning_Crash-Course">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rkaclfdl123&repo=Machine-Learning_Crash-Course" />
 </a>
 
