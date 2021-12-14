@@ -16,15 +16,15 @@
 
   
 <a href="https://github.com/rkaclfdl123/Machine-Learning_Crash-Course" >
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rkaclfdl123&repo=Today-I-Learned&theme=chartreuse-dark"height="130" width="400" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rkaclfdl123&repo=Today-I-Learned&theme=ayu-mirage"height="130" width="400" />
 </a></a><a href="https://github.com/rkaclfdl123/Today-I-Learned">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rkaclfdl123&repo=Reference&theme=chartreuse-dark"height="130" width="400" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rkaclfdl123&repo=Reference&theme=ayu-mirage"height="130" width="400" />
 </a></a><a href="https://github.com/rkaclfdl123/Reference">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rkaclfdl123&repo=coding_practice&theme=chartreuse-dark"height="130" width="400" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rkaclfdl123&repo=coding_practice&theme=ayu-mirage"height="130" width="400" />
 </a></a><a href="https://github.com/rkaclfdl123/coding_practice"><a href="https://github.com/rkaclfdl123/Machine-Learning_Crash-Course">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rkaclfdl123&repo=NLP_practice&theme=chartreuse-dark"height="130" width="400" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rkaclfdl123&repo=NLP_practice&theme=ayu-mirage"height="130" width="400" />
 </a></a><a href="https://github.com/rkaclfdl123/NLP_practice">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rkaclfdl123&repo=snow_application_210216&theme=chartreuse-dark"height="130" width="400" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rkaclfdl123&repo=snow_application_210216&theme=ayu-mirage"height="130" width="400" />
 <a href="https://github.com/rkaclfdl123/snow_application_210216">
 <br/>  
 
