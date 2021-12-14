@@ -26,29 +26,14 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rkaclfdl123&show_icons=true&theme=chartreuse-dark)
   
-<a href="https://github.com/rkaclfdl123/Machine-Learning_Crash-Course">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rkaclfdl123&repo=Machine-Learning_Crash-Course"height="130" width="400" />
+<a href="https://github.com/rkaclfdl123/Machine-Learning_Crash-Course" >
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rkaclfdl123&repo=Today-I-Learned"height="130" width="400" />
+</a></a><a href="https://github.com/rkaclfdl123/Today-I-Learned">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rkaclfdl123&repo=Reference"height="130" width="400" />
 </a></a><a href="https://github.com/rkaclfdl123/Reference">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rkaclfdl123&repo=Machine-Learning_Crash-Course"height="130" width="400" />
-</a></a><a href="https://github.com/rkaclfdl123/Machine-Learning_Crash-Course"><a href="https://github.com/rkaclfdl123/Machine-Learning_Crash-Course">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rkaclfdl123&repo=Machine-Learning_Crash-Course"height="130" width="400" />
-</a></a><a href="https://github.com/rkaclfdl123/Machine-Learning_Crash-Course">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rkaclfdl123&repo=Machine-Learning_Crash-Course"height="130" width="400" />
-</a></a><a href="https://github.com/rkaclfdl123/Machine-Learning_Crash-Course"><a href="https://github.com/rkaclfdl123/Machine-Learning_Crash-Course">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rkaclfdl123&repo=Machine-Learning_Crash-Course"height="130" width="400" />
-</a></a><a href="https://github.com/rkaclfdl123/Machine-Learning_Crash-Course">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rkaclfdl123&repo=Machine-Learning_Crash-Course"height="130" width="400" />
-</a></a><a href="https://github.com/rkaclfdl123/Machine-Learning_Crash-Course"><a href="https://github.com/rkaclfdl123/Machine-Learning_Crash-Course">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rkaclfdl123&repo=Machine-Learning_Crash-Course"height="130" width="400" />
-</a></a><a href="https://github.com/rkaclfdl123/Machine-Learning_Crash-Course">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rkaclfdl123&repo=Machine-Learning_Crash-Course"height="130" width="400" />
-</a></a><a href="https://github.com/rkaclfdl123/Machine-Learning_Crash-Course"><a href="https://github.com/rkaclfdl123/Machine-Learning_Crash-Course">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rkaclfdl123&repo=Machine-Learning_Crash-Course"height="130" width="400" />
-</a></a><a href="https://github.com/rkaclfdl123/Machine-Learning_Crash-Course">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rkaclfdl123&repo=Machine-Learning_Crash-Course"height="130" width="400" />
-</a></a><a href="https://github.com/rkaclfdl123/Machine-Learning_Crash-Course"><a href="https://github.com/rkaclfdl123/Machine-Learning_Crash-Course">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rkaclfdl123&repo=Machine-Learning_Crash-Course"height="130" width="400" />
-</a></a><a href="https://github.com/rkaclfdl123/Machine-Learning_Crash-Course">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rkaclfdl123&repo=Machine-Learning_Crash-Course"height="130" width="400" />
-</a></a><a href="https://github.com/rkaclfdl123/Machine-Learning_Crash-Course">
-</a></a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rkaclfdl123&repo=coding_practice"height="130" width="400" />
+</a></a><a href="https://github.com/rkaclfdl123/coding_practice"><a href="https://github.com/rkaclfdl123/Machine-Learning_Crash-Course">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rkaclfdl123&repo=NLP_practice"height="130" width="400" />
+</a></a><a href="https://github.com/rkaclfdl123/NLP_practice">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rkaclfdl123&repo=snow_application_210216"height="130" width="400" />
+<a href="https://github.com/rkaclfdl123/snow_application_210216">
